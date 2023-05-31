@@ -1,8 +1,8 @@
 {
-  "homepage": "http://gsvaliente.github.io/",
+  "homepage": "http://gsvaliente.github.io/gsvaliente.github.io",
   "name": "website",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
