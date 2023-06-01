@@ -1,4 +1,4 @@
-import CV from '../../assets/Gabriel-cv.pdf';
+import CV from '../../assets/CV-update.pdf';
 import AboutImg from '../../assets/coffee2.jpeg';
 import { Information } from './Information';
 import './about.css';
